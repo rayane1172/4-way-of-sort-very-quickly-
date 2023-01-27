@@ -5,7 +5,7 @@
 
 ///////////////////////////////////// BY RAYANE BOUCHAIR /////////////////////////////////////////////////////////
 
-                      //les METHODE DE TRIATION      / 'A BULLE ' /  'PAR SELECTION ' / 'par insertion'  /
+                      //les METHODES DE TRIATIONS      / 'TRI A BULLE ' /  'TRI PAR SELECTION ' / 'TRI PAR INSERTION '  /
 
 
 
